@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #e0e2e4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.home a{
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    right: 425px;
+    bottom: 310px;
+    font-weight: 600;
+    color: #003147;
+}
+
